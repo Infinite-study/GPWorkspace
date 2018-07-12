@@ -1,7 +1,6 @@
 https://git-scm.com/book/ko/v1/Git%EC%9D%98-%EA%B8%B0%EC%B4%88
 -Git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0
 
-https://github.com/Infinite-study/react.git
 https://github.com/KennethanCeyer/tutorial-git
 
 git명령어 및 git을 이용하기 위한 기본 코드
